@@ -15,4 +15,4 @@ if answer in response:
     print ("" .join(random.sample(characters,paslen)))
     time.sleep(6)
 else:
-    print("Hope you get hacked...bye!!")
+    print("Don't forget the importance of privacy...bye!!")
